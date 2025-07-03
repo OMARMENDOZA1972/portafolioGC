@@ -50,7 +50,7 @@ ScroollReveal().reveal('.home-content h1, .about-img',{ origin: 'left'});
 ScroollReveal().reveal('.home-content p, .about-content',{ origin: 'right'});
 
 /*---------------------------TypedJS------------------------------------------*/
-const TypedJS = new Typed('.multiple-text',{
+const TypedJS = new Typed('.multiplex-text',{
     strings:['Backend developer', 'JavaScript Developer', 'SQL', 'Marchine Learning'],
     typeSpeed: 100,
     backSpeed: 100,
